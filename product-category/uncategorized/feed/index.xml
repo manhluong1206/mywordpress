@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; WATCH</title>
+	<atom:link href="http://localhost/project/product-category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://manhluong1206.github.io/mywordpress</link>
+	<description></description>
+	<lastBuildDate>Wed, 29 Sep 2021 02:52:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>FRANCK MULLER</title>
+		<link>https://manhluong1206.github.io/mywordpress/product/franck-muller/</link>
+					<comments>https://manhluong1206.github.io/mywordpress/product/franck-muller/#respond</comments>
+		
+		<dc:creator><![CDATA[manhluong1206]]></dc:creator>
+		<pubDate>Wed, 29 Sep 2021 02:47:17 +0000</pubDate>
+				<guid isPermaLink="false">https://manhluong1206.github.io/mywordpress/?post_type=product&#038;p=197</guid>
+
+					<description><![CDATA[FRANCK MULLER MSP: V41 Steel Black Franck Muller Vanguard Steel Full Diamonds]]></description>
+										<content:encoded><![CDATA[<div class="prdboxsli-thumb"><a title="Franck Muller Vanguard Steel Full Diamonds" href="https://cuongluxury.vn/franck-muller-vanguard-steel-full-diamonds"><img class="aligncenter" src="https://cuongluxury.vn/uploads/products/franck-muller-vanguard-steel-full-diamonds.png?width=600&amp;height=600&amp;mode=crop" alt="Franck Muller Vanguard Steel Full Diamonds" /></a></div>
+<div class="prdboxsli-ccname" style="text-align: center;">FRANCK MULLER</div>
+<div class="prdboxsli-key" style="text-align: center;">MSP: V41 Steel Black</div>
+<div class="prdboxsli-title" style="text-align: center;">Franck Muller Vanguard Steel Full Diamonds</div>
+<div class="prdboxsli-price">
+<div class="item-price" style="text-align: center;"></div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://manhluong1206.github.io/mywordpress/product/franck-muller/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/project/shop/feed/" rel="self" type="application/rss+xml" />
 	<link>https://manhluong1206.github.io/mywordpress</link>
 	<description></description>
-	<lastBuildDate>Sun, 26 Sep 2021 11:19:56 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 29 Sep 2021 02:52:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,30 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
+		<title>FRANCK MULLER</title>
+		<link>https://manhluong1206.github.io/mywordpress/product/franck-muller/</link>
+					<comments>https://manhluong1206.github.io/mywordpress/product/franck-muller/#respond</comments>
+		
+		<dc:creator><![CDATA[manhluong1206]]></dc:creator>
+		<pubDate>Wed, 29 Sep 2021 02:47:17 +0000</pubDate>
+				<guid isPermaLink="false">https://manhluong1206.github.io/mywordpress/?post_type=product&#038;p=197</guid>
+
+					<description><![CDATA[FRANCK MULLER MSP: V41 Steel Black Franck Muller Vanguard Steel Full Diamonds]]></description>
+										<content:encoded><![CDATA[<div class="prdboxsli-thumb"><a title="Franck Muller Vanguard Steel Full Diamonds" href="https://cuongluxury.vn/franck-muller-vanguard-steel-full-diamonds"><img class="aligncenter" src="https://cuongluxury.vn/uploads/products/franck-muller-vanguard-steel-full-diamonds.png?width=600&amp;height=600&amp;mode=crop" alt="Franck Muller Vanguard Steel Full Diamonds" /></a></div>
+<div class="prdboxsli-ccname" style="text-align: center;">FRANCK MULLER</div>
+<div class="prdboxsli-key" style="text-align: center;">MSP: V41 Steel Black</div>
+<div class="prdboxsli-title" style="text-align: center;">Franck Muller Vanguard Steel Full Diamonds</div>
+<div class="prdboxsli-price">
+<div class="item-price" style="text-align: center;"></div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://manhluong1206.github.io/mywordpress/product/franck-muller/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Chaumet Bague Bee My Love Ring Rose Gold Full Pavé</title>
 		<link>https://manhluong1206.github.io/mywordpress/product/bee-my-love-ring-rose-gold-full-pave/</link>
 					<comments>https://manhluong1206.github.io/mywordpress/product/bee-my-love-ring-rose-gold-full-pave/#respond</comments>
@@ -333,49 +357,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://manhluong1206.github.io/mywordpress/product/vertu-signature-s-black-and-white/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Vertu Signature S Dragon Yellow Gold</title>
-		<link>https://manhluong1206.github.io/mywordpress/product/vertu-signature-s-dragon-yellow-gold/</link>
-					<comments>https://manhluong1206.github.io/mywordpress/product/vertu-signature-s-dragon-yellow-gold/#respond</comments>
-		
-		<dc:creator><![CDATA[manhluong1206]]></dc:creator>
-		<pubDate>Sun, 26 Sep 2021 09:04:45 +0000</pubDate>
-				<guid isPermaLink="false">https://manhluong1206.github.io/mywordpress/?post_type=product&#038;p=85</guid>
-
-					<description><![CDATA[VERTU MSP: SKU01447 Vertu Signature S Dragon Yellow Gold 400.000.000đ]]></description>
-										<content:encoded><![CDATA[<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3 margin-bottom-15">
-<div class="prdboxsli-item">
-<div class="prdboxsli-thumb"></div>
-<div class="prdboxsli-ccname" style="text-align: center;">
-<div class="prdboxsli-thumb"></div>
-<div class="prdboxsli-price">
-<div class="item-price">
-<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3 margin-bottom-15">
-<div class="prdboxsli-item">
-<div class="prdboxsli-thumb"><a title="Vertu Signature S Dragon Yellow Gold" href="https://cuongluxury.vn/vertu-signature-s-dragon-yellow-gold"><img src="https://cuongluxury.vn/uploads/products/vertu-signature-s-dragon-gold-%E2%80%93-likenew-2016-rat-dep.png?width=600&amp;height=600&amp;mode=crop" alt="Vertu Signature S Dragon Yellow Gold" /></a></div>
-<div class="prdboxsli-ccname">VERTU</div>
-<div class="prdboxsli-key">MSP: SKU01447</div>
-<div class="prdboxsli-title">Vertu Signature S Dragon Yellow Gold</div>
-<div class="prdboxsli-price">
-<div class="item-price"><span class="special-price"><span class="price-container"><span class="price-wrapper"><span class="price">400.000.000<span class="dvtt">đ</span></span></span></span></span></div>
-</div>
-</div>
-</div>
-<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3 margin-bottom-15">
-<div class="prdboxsli-item"></div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://manhluong1206.github.io/mywordpress/product/vertu-signature-s-dragon-yellow-gold/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
